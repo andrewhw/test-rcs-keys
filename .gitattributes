@@ -6,5 +6,5 @@
 *.cc filter=rcs-keywords
 *.m filter=rcs-keywords
 *.mm filter=rcs-keywords
-*.md filter=rcs-keywords
+*.md filter=rcs-keyword
 test.html filter=rcs-keyword

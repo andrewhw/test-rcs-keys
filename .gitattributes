@@ -7,3 +7,4 @@
 *.m filter=rcs-keywords
 *.mm filter=rcs-keywords
 *.md filter=rcs-keywords
+test.html filter=rcs-keyword
